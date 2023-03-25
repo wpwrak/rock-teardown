@@ -1,0 +1,33 @@
+Teardown of the Kospet Rock smartwatch
+======================================
+
+Inside the watch
+----------------
+
+inside.jpg		This shows the inside of the watch, with the display
+			module folded away but still connected.
+screws-t5.jpg		The Torx T5 screws that hold the top in place
+			(there is also some glue, for improved sealing,)
+inside-top.jpg		The inside after disconnecting the display panel
+			(LCD and touch screen,)
+inside-charger.jpg	The charging pins and magnets on the inside of the
+			case. Note that not only the connection between the
+			charging cable and the external contacts is made with
+			pogo pins, but a second set of pogo pins is used on
+			the inside to connect to the PCB.
+inside-bottom.jpg	The bottom of the case, with the heart rate sensor
+			at the center.
+pcb-bat-vib-top.jpg	Top view of PCB, battery, and vibrator.
+pcb-bat-vib-bottom.jpg	Bottom view.
+pcb-bottom.jpg		More detailed view of the PCB bottom.
+swd.jpg			Closeup of the SWD connector.
+
+display-back.jpg	The display module.
+display-fpcs.jpg	The FPCs of the display module, with the touch sensor
+			controller visible a the top.
+display-stacking.jpg	The layers of the display, including: black rubber-ish
+			cover, light spreader, LCD, touch panel, crystal. The
+			L-shaped pattern is probably on the touch panel.
+display-delaminated.jpg	The results of an attempt to separate the display
+			module from the crystal, using heat and mechanical
+			force.
